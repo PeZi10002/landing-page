@@ -1,0 +1,23 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "description": "simple landing page",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeZi10002/landing-page.git"
+  },
+  "author": "PeZi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeZi10002/landing-page/issues"
+  },
+  "homepage": "https://PeZi10002.github.io/landing-page"
+}
